@@ -18,3 +18,10 @@ cd reth
 
 # build
 cargo build --release
+
+# lighthouse ethereum consensus client
+cd ..
+git clone https://github.com/sigp/lighthouse.git
+cd lighthouse
+git checkout stable
+make
