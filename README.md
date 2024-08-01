@@ -4,3 +4,4 @@
 
 * [Options for running an ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
 * [reth install from source](https://reth.rs/installation/source.html)
+* [lighthouse eth consensus client](https://lighthouse-book.sigmaprime.io/intro.html)
