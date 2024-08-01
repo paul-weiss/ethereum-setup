@@ -8,9 +8,11 @@ rustup default stable-aarch64-apple-darwin
 
 # install llvm
 brew install llvm pkg-config
+brew install cmake
+
 
 # download reth
-cd ~
+cd ..
 git clone https://github.com/paradigmxyz/reth
 cd reth
 
