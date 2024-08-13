@@ -9,3 +9,4 @@
 ### Links
 
 * [Rust lib for interacting with node](https://www.gakonst.com/ethers-rs/getting-started/intro.html)
+* [Guide to staking](https://ethereum.org/en/staking/)
