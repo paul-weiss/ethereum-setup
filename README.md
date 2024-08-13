@@ -5,3 +5,7 @@
 * [Options for running an ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
 * [geth install from source](https://geth.ethereum.org/docs/getting-started/installing-geth)
 * [lighthouse install from source](https://lighthouse-book.sigmaprime.io/installation-source.html)
+
+### Links
+
+* [Rust lib for interacting with node](https://www.gakonst.com/ethers-rs/getting-started/intro.html)
