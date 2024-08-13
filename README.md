@@ -11,3 +11,4 @@
 * [Rust lib for interacting with node](https://www.gakonst.com/ethers-rs/getting-started/intro.html)
 * [Guide to staking](https://ethereum.org/en/staking/)
 * [Settup up a local testnet](https://github.com/ethereum/local-testnet)
+* [Smart Contracts with Foundry](https://book.getfoundry.sh/)
